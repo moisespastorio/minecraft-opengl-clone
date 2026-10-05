@@ -1,0 +1,9 @@
+# Pasta de compilação do CMake (ignora binários, objetos, caches e temporários de uma vez só)
+build/
+
+# Configurações de workspace local do VS Code
+.vscode/tasks.json
+
+# Arquivos do Sistema Operacional (Windows)
+Thumbs.db
+desktop.ini
